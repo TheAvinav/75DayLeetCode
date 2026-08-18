@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAvinav/75DayLeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheAvinav/75DayLeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/TheAvinav/75DayLeetCode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
