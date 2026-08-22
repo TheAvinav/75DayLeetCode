@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAvinav/75DayLeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheAvinav/75DayLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
