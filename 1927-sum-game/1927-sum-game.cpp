@@ -1,18 +1,20 @@
 class Solution {
 public:
-    bool sumGame(string A) {
-        int sum[2] = {0, 0}, q[2] = {0, 0};
-        int n = A.length();
+    bool sumGame(string num) {
+        int n = num.size();
+        int leftSum = 0, rightSum = 0;
+        int leftQ = 0, rightQ = 0;
 
-        for (int i = 0; i < n; i++) {
-            int j = i / (n >> 1);
-            if (A[i] == '?')
-                q[j]++;
-            else
-                sum[j] += A[i] - '0';
+        for(int i = 0; i < n / 2; i++) {
+            if(num[i] == '?') leftQ++;
+            else leftSum += num[i] - '0';
         }
 
-        return ((q[0] + q[1]) & 1) ||
-               ((sum[0] - sum[1]) << 1) != (q[1] - q[0]) * 9;
+        for(int i = n / 2; i < n; i++) {
+            if(num[i] == '?') rightQ++;
+            else rightSum += num[i] - '0';
+        }
+
+        return (leftSum - rightSum) * 2 != (rightQ - leftQ) * 9;
     }
 };
