@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAvinav/75DayLeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheAvinav/75DayLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/TheAvinav/75DayLeetCode/tree/master/0763-partition-labels) |
+| [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/TheAvinav/75DayLeetCode/tree/master/0134-gas-station) |
 | [0763-partition-labels](https://github.com/TheAvinav/75DayLeetCode/tree/master/0763-partition-labels) |
+| [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/TheAvinav/75DayLeetCode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
