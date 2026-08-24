@@ -3,19 +3,23 @@ public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> sub;
-        recursive(nums, ans, sub, 0);
+        recursive(nums, sub, 0, ans);
 
         return ans;
     }
 
-    void recursive(vector<int> &nums, vector<vector<int>> &ans, vector<int> &sub, int i)
+    void recursive(vector<int> &nums, vector<int> &sub, int i, vector<vector<int>> &ans)
     {
-        ans.push_back(sub);
-        for (int j = i; j < nums.size(); j++)
+        if (i == nums.size())
         {
-            sub.push_back(nums[j]);
-            recursive(nums, ans, sub, j+1);
-            sub.pop_back();
+            ans.push_back({sub});
+            return;
         }
+        
+        sub.push_back(nums[i]);
+        recursive(nums, sub, i+1, ans);
+
+        sub.pop_back();
+        recursive(nums, sub, i+1, ans);
     }
 };
