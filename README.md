@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TheAvinav/75DayLeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TheAvinav/75DayLeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TheAvinav/75DayLeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheAvinav/75DayLeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TheAvinav/75DayLeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/TheAvinav/75DayLeetCode/tree/master/0763-partition-labels) |
 | [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TheAvinav/75DayLeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TheAvinav/75DayLeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/TheAvinav/75DayLeetCode/tree/master/0763-partition-labels) |
 | [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/TheAvinav/75DayLeetCode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TheAvinav/75DayLeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/TheAvinav/75DayLeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0090-subsets-ii) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TheAvinav/75DayLeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
