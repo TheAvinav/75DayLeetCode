@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TheAvinav/75DayLeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/TheAvinav/75DayLeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/TheAvinav/75DayLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/TheAvinav/75DayLeetCode/tree/master/0134-gas-station) |
 | [0704-binary-search](https://github.com/TheAvinav/75DayLeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TheAvinav/75DayLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0763-partition-labels](https://github.com/TheAvinav/75DayLeetCode/tree/master/0763-partition-labels) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheAvinav/75DayLeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TheAvinav/75DayLeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/TheAvinav/75DayLeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TheAvinav/75DayLeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
