@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/TheAvinav/75DayLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TheAvinav/75DayLeetCode/tree/master/0046-permutations) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAvinav/75DayLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0763-partition-labels](https://github.com/TheAvinav/75DayLeetCode/tree/master/0763-partition-labels) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheAvinav/75DayLeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/TheAvinav/75DayLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TheAvinav/75DayLeetCode/tree/master/0046-permutations) |
@@ -153,9 +156,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/TheAvinav/75DayLeetCode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TheAvinav/75DayLeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
