@@ -2,7 +2,7 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        int answer = -1;
+        // int answer = -1;
         for (int i = 0; i < n; i++)
         {
             int maxValue = nums[0];
@@ -20,10 +20,9 @@ public:
 
             if (maxValue - minValue <= k)
             {
-                answer = i;
-                break;
+                return i;
             }
         }
-        return answer;
+        return -1;
     }
 };
