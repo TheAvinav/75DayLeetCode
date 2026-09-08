@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/TheAvinav/75DayLeetCode/tree/master/0134-gas-station) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TheAvinav/75DayLeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheAvinav/75DayLeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TheAvinav/75DayLeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Minimax
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/TheAvinav/75DayLeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
