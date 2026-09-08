@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/TheAvinav/75DayLeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0090-subsets-ii) |
+| [0693-binary-number-with-alternating-bits](https://github.com/TheAvinav/75DayLeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
