@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAvinav/75DayLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/TheAvinav/75DayLeetCode/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/TheAvinav/75DayLeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TheAvinav/75DayLeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/TheAvinav/75DayLeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TheAvinav/75DayLeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
