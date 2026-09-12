@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/TheAvinav/75DayLeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
+| [1175-prime-arrangements](https://github.com/TheAvinav/75DayLeetCode/tree/master/1175-prime-arrangements) |
 | [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAvinav/75DayLeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -201,4 +202,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/TheAvinav/75DayLeetCode/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/TheAvinav/75DayLeetCode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/TheAvinav/75DayLeetCode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
