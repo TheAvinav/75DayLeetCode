@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/TheAvinav/75DayLeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TheAvinav/75DayLeetCode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/TheAvinav/75DayLeetCode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/TheAvinav/75DayLeetCode/tree/master/0835-image-overlap) |
 ## Dancing Links
 |  |
 | ------- |
