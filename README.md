@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/TheAvinav/75DayLeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/TheAvinav/75DayLeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/TheAvinav/75DayLeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
 | [1175-prime-arrangements](https://github.com/TheAvinav/75DayLeetCode/tree/master/1175-prime-arrangements) |
 | [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/TheAvinav/75DayLeetCode/tree/master/1175-prime-arrangements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/TheAvinav/75DayLeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
