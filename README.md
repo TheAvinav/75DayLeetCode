@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/0877-stone-game) |
 | [1175-prime-arrangements](https://github.com/TheAvinav/75DayLeetCode/tree/master/1175-prime-arrangements) |
 | [1927-sum-game](https://github.com/TheAvinav/75DayLeetCode/tree/master/1927-sum-game) |
+| [2652-sum-multiples](https://github.com/TheAvinav/75DayLeetCode/tree/master/2652-sum-multiples) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAvinav/75DayLeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheAvinav/75DayLeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
