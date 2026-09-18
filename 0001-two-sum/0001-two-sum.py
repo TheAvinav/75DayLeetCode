@@ -1,8 +1,11 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        num_map = {}
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in num_map:
-                return [num_map[complement], i]
-            num_map[num] = i
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        prevMap = {} # val : ind
+        for i, n in enumerate(nums):
+            diff = target - n
+            if diff in prevMap:
+                return [prevMap[diff], i]
+
+            prevMap[n] = i
+        return
+        
