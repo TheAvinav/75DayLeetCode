@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TheAvinav/75DayLeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/TheAvinav/75DayLeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/TheAvinav/75DayLeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAvinav/75DayLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/TheAvinav/75DayLeetCode/tree/master/0134-gas-station) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/TheAvinav/75DayLeetCode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TheAvinav/75DayLeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAvinav/75DayLeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0088-merge-sorted-array) |
 | [0763-partition-labels](https://github.com/TheAvinav/75DayLeetCode/tree/master/0763-partition-labels) |
 ## String
 |  |
