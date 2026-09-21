@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/TheAvinav/75DayLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TheAvinav/75DayLeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TheAvinav/75DayLeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/TheAvinav/75DayLeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/TheAvinav/75DayLeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/TheAvinav/75DayLeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/TheAvinav/75DayLeetCode/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TheAvinav/75DayLeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/TheAvinav/75DayLeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/TheAvinav/75DayLeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/TheAvinav/75DayLeetCode/tree/master/0509-fibonacci-number) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/TheAvinav/75DayLeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/TheAvinav/75DayLeetCode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/TheAvinav/75DayLeetCode/tree/master/0835-image-overlap) |
 ## Dancing Links
 |  |
